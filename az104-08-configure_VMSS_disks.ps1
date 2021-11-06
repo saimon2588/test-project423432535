@@ -21,3 +21,5 @@ Update-AzVmss `
 	-ResourceGroupName $rgName `
 	-Name $vmssName `
 	-VirtualMachineScaleSet $vmss
+
+// произведено добавление set vm и его обновление
